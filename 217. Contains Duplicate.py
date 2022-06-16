@@ -7,5 +7,8 @@ class Solution:
                 return True
             else:
                 newNums.add(n)
+                
         return False
         
+#Time Complexity: O(n)
+#Space Complexity: O(n)
